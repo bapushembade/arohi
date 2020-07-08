@@ -1,4 +1,8 @@
 yogini
 first line in yogini
 second line in yogini
+<<<<<<< HEAD
 forth line in yogini
+=======
+third line in yogini
+>>>>>>> 61740c207c452ae638c90c32a31823abcf0fdd8c
